@@ -1,0 +1,15 @@
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\HotelFinderEntities.deps.json
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\HotelFinderEntities.runtimeconfig.json
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\HotelFinderEntities.runtimeconfig.dev.json
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\HotelFinderEntities.dll
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\ref\HotelFinderEntities.dll
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\bin\Debug\net5.0\HotelFinderEntities.pdb
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.AssemblyInfoInputs.cache
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.AssemblyInfo.cs
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.dll
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\ref\HotelFinderEntities.dll
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.pdb
+C:\Users\SC-303 1\Desktop\HotelFinder\HotelFinderEntities\obj\Debug\net5.0\HotelFinderEntities.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AOS9bqiNxyqGymAOX80otSOBFoscKvY6Ama9/AD7ZY2u+PkJMCSNVMHtzKTZ9draBDyUsVBinTp8oMLaaBR1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SC-303 1\\Desktop\\HotelFinder\\HotelFinderWebApi\\HotelFinderWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-303 1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
